@@ -51,6 +51,8 @@ class PlayVS {
 }
 
 
+/* TESTING */
+
 const obj = new PlayVS();
 console.log( obj.getAverage() === 0 ); //true
 obj.takeNumber( -1 );
